@@ -1,0 +1,4 @@
+.vscode
+*.o
+libcuddle.a
+our_test
